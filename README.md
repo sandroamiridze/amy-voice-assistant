@@ -1,6 +1,5 @@
 Certainly! Below is the `README.md` formatted as code for your GitHub repository:
 
-```markdown
 # Voice Assistant App
 
 Welcome to the Voice Assistant App repository! This project is a voice assistant application that leverages the power of various technologies to provide a seamless voice interaction experience. The app integrates OpenAI's GPT model, FFmpeg, Vosk, and Aplay to deliver an efficient and effective voice assistant experience.
@@ -114,4 +113,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to reach out with any questions or feedback. Enjoy using the Voice Assistant App!
-```
