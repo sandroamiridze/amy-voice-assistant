@@ -22,7 +22,7 @@ Welcome to the Voice Assistant App repository! This project is a voice assistant
 
 ## Technologies Used
 
-- **[GPT (OpenAI)](https://openai.com/gpt)**: For natural language understanding and generation.
+- **[TGPT (OpenAI)](https://github.com/aandrew-me/tgpt)**: For natural language understanding and generation.
 - **[FFmpeg](https://ffmpeg.org/)**: For audio processing and manipulation.
 - **[Vosk](https://alphacephei.com/vosk/)**: For speech recognition and converting speech to text.
 - **[Aplay](https://linux.die.net/man/1/aplay)**: For audio playback.
